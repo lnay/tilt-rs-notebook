@@ -1,5 +1,12 @@
 
 {
 	"name": "pseudo_tilt",
-	"dockerFile": "."
+	"dockerFile": "Dockerfile",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-toolsai.jupyter"
+			]
+		}
+	}
 }
