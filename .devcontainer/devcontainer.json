@@ -7,6 +7,9 @@
 			"extensions": [
 				"ms-toolsai.jupyter"
 			]
+		},
+		"codespaces": {
+			"openFiles": [ "notebook.ipynb" ]
 		}
 	}
 }
